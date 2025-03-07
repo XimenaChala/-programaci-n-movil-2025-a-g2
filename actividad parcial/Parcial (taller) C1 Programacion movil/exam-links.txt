@@ -1,0 +1,3 @@
+ Enlace público de Trello con las tres HU documentadas:https://trello.com/invite/b/67cb4c94138d374c682ec2c1/ATTIe28361f9cb5e906ab966c2a811f491ab0D5393D4/alistamiento-del-proyecto-movil
+ Enlace público de Figma con el diseño de HU3:
+ Enlace del repositorio en Git :

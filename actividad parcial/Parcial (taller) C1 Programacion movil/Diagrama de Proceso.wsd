@@ -1,0 +1,13 @@
+title Gestión y Control de Vuelos
+
+participant "Pasajero" as P
+participant "Sistema Móvil" as SM
+participant "Tripulación" as T
+participant "Personal Aeropuerto" as PA
+
+P -> SM: Ver vuelos, check-in, recibir notificaciones
+T -> SM: Actualizar itinerarios, recibir cambios
+PA -> SM: Asignar puertas, actualizar información
+SM -> P: Enviar notificaciones en tiempo real
+SM -> T: Notificar cambios de vuelos
+SM -> PA: Confirmar asignaciones de puertas
